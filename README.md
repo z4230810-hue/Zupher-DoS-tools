@@ -1,2 +1,3 @@
 # Zupher-DoS-tools
-Use with systems you have permission to access. 
+
+# Zupher-DoS For educational and testing purposes only, within authorized areas. 
